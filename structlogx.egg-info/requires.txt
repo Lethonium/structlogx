@@ -1,1 +1,1 @@
-python-jsonlogger
+python-json-logger
