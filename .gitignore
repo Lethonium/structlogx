@@ -1,3 +1,5 @@
 .env
 dist/*
 structlogx.egg-info/*
+test.ipynb
+__pycache__
