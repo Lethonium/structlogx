@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-json_logger/__init__.py
-structlogx.egg-info/PKG-INFO
-structlogx.egg-info/SOURCES.txt
-structlogx.egg-info/dependency_links.txt
-structlogx.egg-info/requires.txt
-structlogx.egg-info/top_level.txt

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="structlogx",  # Replace with your package's preferred name
-    version="0.1.0",  # Start with an initial version (e.g., 0.1.0)
+    version="0.1.1",  # Start with an initial version (e.g., 0.1.0)
     description="A simple Python logging package",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",  # To display README.md on PyPI
