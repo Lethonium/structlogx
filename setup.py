@@ -11,7 +11,7 @@ setup(
     url="https://github.com/Lethonium/structlogx",  # Use your GitHub URL
     license="MIT",  # Choose your license, e.g., MIT, Apache
     packages=find_packages(),  # Automatically find the `my_logger` package
-    install_requires=["python-jsonlogger"],  # List any dependencies, e.g., ['requests']
+    install_requires=["python-json-logger"],  # List any dependencies, e.g., ['requests']
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
